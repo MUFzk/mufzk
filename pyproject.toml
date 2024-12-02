@@ -1,1 +1,18 @@
+[project]
+name = "mufzk"
+version = "0.0.1"
+authors = [
+  { name="Saba Arife Bozpolat", email="saba.bozpolat@gmail.com" },
+]
+description = "A small python package for coding classes of Marmara University Physics Department."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU GPLv3 License",
+    "Operating System :: OS Independent",
+]
 
+[project.urls]
+Homepage = "https://github.com/MUFzk/mufzk/"
+Issues = "https://github.com//MUFzk/mufzk/issues"
